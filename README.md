@@ -21,7 +21,9 @@ The project:
 ## Data
 Columns expected in `car_sales_data.csv`:
 - Manufacturer, Model, Fuel type  
-- Engine size, Year of manufacture, Mileage, Price  
+- Engine size, Year of manufacture, Mileage, Price
+- Random Forest performed the best overall — it gave lower errors (MAE, RMSE) and a higher R² compared to Linear Regression.
+- Linear Regression did better than the baseline, but not as well as Random Forest.  
 
 ---
 
