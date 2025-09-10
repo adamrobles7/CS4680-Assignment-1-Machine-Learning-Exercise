@@ -32,6 +32,8 @@ Columns expected in `car_sales_data.csv`:
 - **Models:** Linear Regression & Random Forest (`n_estimators=200`).  
 - **Metrics:** MAE, RMSE, R².
 
+---
+
 ## Results / Findings
 - Random Forest performed the best overall — it gave lower errors (MAE, RMSE) and a higher R² compared to Linear Regression.
 - Linear Regression did better than the baseline, but not as well as Random Forest.  
